@@ -50,5 +50,3 @@ genetic-tsp-solver/
 ├─ utils.py             # Helper functions (distance, fitness, plotting)
 └─ README.md            # Project documentation
 ```
-- Soft clauses: start with SOFT_CLAUSE, followed by literals, ending with weight
-- Literals can be variables (e.g., x1) or negations (e.g., ~x2)
